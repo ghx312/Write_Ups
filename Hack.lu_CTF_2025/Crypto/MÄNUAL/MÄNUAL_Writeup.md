@@ -1,1 +1,0 @@
-MÄNUAL Writeups
