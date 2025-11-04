@@ -1,1 +1,3 @@
-This is where my writeups for my various CTFs are held.
+Working on:
+- SENTI_CTF_Legacy
+- Hack.lu CTF 2025
