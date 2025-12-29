@@ -1,1 +1,0 @@
-SYNDRÖM DECÖD Writeups
