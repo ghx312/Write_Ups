@@ -7,10 +7,8 @@ Santa has sent a flag to everyone on the nice list, unfortunately you did not ge
 
 Maybe you can get the flag as well?  
 
-# Vulnerability
-Small Public Exponent + Moduli Coprime + Plaintext Reuse
-
 # Solve
+Vulnerability: Small Public Exponent + Moduli Coprime + Plaintext Reuse  
 The chall.py has 2 pieces of code that give away its vulnerability:  
 ```
 if gcd(n1, n2) != 1 or gcd(n1, n3) != 1 or gcd(n2, n3) != 1:
