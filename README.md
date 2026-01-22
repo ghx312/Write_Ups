@@ -1,4 +1,1 @@
-Working on:
-- SENTI_CTF_Legacy
-- Hack.lu CTF 2025
-- CryptoHack
+Trying to make sense of things, have mercy.
