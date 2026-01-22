@@ -1,5 +1,5 @@
 # Challenge Details
-Challenge Name: Flag from Santa 
+Challenge Name: Flag from Santa  
 Category: Cryptography 
 
 # Challenge Description
