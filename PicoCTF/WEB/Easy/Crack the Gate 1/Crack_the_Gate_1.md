@@ -12,16 +12,16 @@ Hint 2: A common trick is to rotate each letter by 13 positions in the alphabet.
 # Solve
 Going into the website you see a login interface, checking the source code reveals the following comments left by the developer.  
 
-Picture1
+![Screenshot](./Images/Comment_Cipher.png)  
 
 Using the second hint, we can derive that this comment is encoded using a ROT13 cipher which when decoded reveals the following note.  
 
-Picture2
+![Screenshot](./Images/ROT13_Decode.png)  
 
 This tells us that we are able to use "X-Dev-Access: yes" to bypass the password requirement.  
 By using Burp Suite, we can edit our send request to contain a valid username and the X-Dev-Access: yes to bypass the password to obtain the flag.  
 
-Picture3
+![Screenshot](./Images/Burp_Solve.png)  
 
 # Flag
 picoCTF{brut4_f0rc4_3c6b118b}
