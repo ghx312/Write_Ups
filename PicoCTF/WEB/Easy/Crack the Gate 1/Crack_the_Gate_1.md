@@ -20,7 +20,7 @@ Using the second hint, we can derive that this comment is encoded using a ROT13 
 ![Screenshot](./Images/ROT13_Decode.png)  
 
 This tells us that we are able to use "X-Dev-Access: yes" to bypass the password requirement.  
-By using Burp Suite, we can edit our send request to contain a valid username and the X-Dev-Access: yes to bypass the password to obtain the flag.  
+By using Burp Suite, we can edit our send request to contain a valid username and the "X-Dev-Access: yes" to bypass the password to obtain the flag.  
 
 ![Screenshot](./Images/Burp_Solve.png)  
 
