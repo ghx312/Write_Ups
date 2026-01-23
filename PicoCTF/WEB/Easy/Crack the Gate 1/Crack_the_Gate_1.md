@@ -11,11 +11,11 @@ Hint 1: Developers sometimes leave notes in the code, but not always in plain te
 Hint 2: A common trick is to rotate each letter by 13 positions in the alphabet.  
 
 # Solve
-Going into the website you see a login interface, checking the source code reveals the following comments left by the developer.  
+Going into the website, you see a login interface, checking the source code reveals the following comments left by the developer.  
 
 ![Screenshot](./Images/Comment_Cipher.png)  
 
-Using the second hint, we can derive that this comment is encoded using a ROT13 cipher which when decoded reveals the following note.  
+Using the second hint, we can derive that this comment is encoded using a ROT13 cipher which, when decoded, reveals the following note.  
 
 ![Screenshot](./Images/ROT13_Decode.png)  
 
