@@ -11,7 +11,7 @@ Settings:
 Error Level Analysis  
 Change Error Scale to 4  
 Result:  
-![[Solve.png]]
+![Clear Flag](Solve.png)
 
 # Flag
 blahaj{1_l0ve_no1s3_yay_2650}
