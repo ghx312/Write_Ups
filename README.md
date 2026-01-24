@@ -1,1 +1,1 @@
-Trying to make sense of things, have mercy.
+Writeups for CTF Challenges that I have done
