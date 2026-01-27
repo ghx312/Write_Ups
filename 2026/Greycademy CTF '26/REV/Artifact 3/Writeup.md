@@ -1,6 +1,6 @@
 # Challenge Details
 Challenge Name: Artifact 3  
-Category: Reverse Engineering
+Category: Reverse Engineering  
 Author: cewau
 
 # Challenge Description
