@@ -11,6 +11,7 @@ Let's try! Your goal here is to be able to execute and read the output of arbitr
 http://challs.nusgreyhats.org:32902
 
 # Solve
-
+We were able to run commands by backing it out with backticks, by running \`ls\`, we are able to see the flag.txt file, we can then run \`cat flag.txt\` to view the file.
 
 # Flag
+grey{injectable}
