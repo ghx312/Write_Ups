@@ -35,7 +35,7 @@ Reversing the change_last_character() gives us "I love greycat" and reversing th
 # Additional Remarks
 I think that the initial input to give the flag is a very nice touch with the theme of the organising committee.  
 Also, look at the art:  
-![ScreenShot](./Images/Appreciate.png)
+![ScreenShot](./Images/Appreciate.png)  
 Thank you!
 
 # Flag
