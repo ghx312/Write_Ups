@@ -20,7 +20,7 @@ The ASCII manipulation causes a lowercase to become an uppercase.
 This adds a fixed ASCII value change to the last char.  
 
 ### add_new_character()
-![ScreenShot](./Images/add_character.png)  
+![ScreenShot](./Images/add_char.png)  
 This adds the phrase "emy! <3" to the end of the plaintext.  
 
 ### suspicious_check()
