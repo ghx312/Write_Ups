@@ -26,4 +26,4 @@ Copying down the values of the hex and converting into string gives us the plain
 It compares the pointer value to the hardcoded value, using the pointer value you can reverse it and get the plaintext.
 
 # Flag
-grey{p o1ymorphic_memory}
+grey{po1ymorphic_memory}
