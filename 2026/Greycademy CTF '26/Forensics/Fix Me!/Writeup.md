@@ -1,7 +1,7 @@
-Why this PNG file not opening :/# Challenge Details
-Challenge Name: 
-Category: 
-Author:
+# Challenge Details
+Challenge Name: Fix Me!  
+Category: Forensics  
+Author: Jin Kai
 
 # Challenge Description
 Why this PNG file not opening :/
