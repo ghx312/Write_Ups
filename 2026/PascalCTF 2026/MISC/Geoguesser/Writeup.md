@@ -18,6 +18,8 @@ Reversing his location using the image, we can find the exact coordinates he was
 We get this location on Google maps:  
 
 ![ScreenShot](./Images/Maps.png)
+
+He is standing at the top left corner of the picture, we can find this by comparing the picture's background to the shops in the google maps image.  
  
 # Flag
 pascalCTF{35.92,14.47}  
