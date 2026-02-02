@@ -1,5 +1,5 @@
 # Challenge Details
-Challenge Name: curve ball  
+Challenge Name: Curve ball  
 Category: Cryptography  
 Author: Alan Davide Bovo <@AlBovo>  
 Final Points: 286  
