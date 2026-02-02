@@ -12,7 +12,7 @@ nc curve.ctf.pascalctf.it 5004
 # Solve
 The Curve used is not conventional, the order of the curve is factorable, making it weak to pholig-hellman.  
 Factoring of the curve order:  
-![ScreenShot](./Images/Factors.png)  
+![ScreenShot](./Images/Factor.png)  
 
 # Flag
 pascalCTF{sm00th_0rd3rs_m4k3_3cc_n0t_s0_h4rd_4ft3r_4ll}  
