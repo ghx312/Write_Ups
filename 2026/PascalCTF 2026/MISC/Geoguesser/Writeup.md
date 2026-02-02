@@ -11,7 +11,7 @@ The flag format is pascalCTF{YY.YY,XX.XX} where Y=latitude and X=longitude, roun
 We are given a picture of a man standing at the corner of a crosswalk.  
 I first tried to look at the names of the shops behind him, most notably a bakery and a hotel. It was very blurry, and I couldn't see their names, so I reversed Google Image the location and it gave me this.  
 
-![ScreenShot](./Images/Rev_Google_Image.png)  
+![ScreenShot](./Images/Rev_Google_Maps.png)  
 
 Searching the hotel's name: C'est La Vie  
 Reversing his location using the image, we can find the exact coordinates he was standing on.  
